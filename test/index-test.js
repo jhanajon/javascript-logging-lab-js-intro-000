@@ -1,3 +1,4 @@
+console.error("This is Joe");
 const expect = require('expect')
 const fs = require('fs')
 const jsdom = require('jsdom')
